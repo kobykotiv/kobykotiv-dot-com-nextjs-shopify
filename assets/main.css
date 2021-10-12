@@ -5,3 +5,6 @@
 @import './components.css';
 
 @tailwind utilities;
+
+@tailwind sweet;
+@import './sweet.css';

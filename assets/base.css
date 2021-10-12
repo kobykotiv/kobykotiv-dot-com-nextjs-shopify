@@ -37,6 +37,8 @@
   --accents-9: #212529;
   --font-sans: -apple-system, system-ui, BlinkMacSystemFont, 'Helvetica Neue',
     'Helvetica', sans-serif;
+
+  --hero-background-blur: 1px;
 }
 
 [data-theme='dark'] {
